@@ -1,4 +1,4 @@
-//Collin Brooks
+//Collin Brooks & Luke Jacobs
 //ParticleGUI
 // GUI runner for electromagnetic fields
 import java.util.*;
